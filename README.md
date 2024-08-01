@@ -1,7 +1,6 @@
-![Profile Image](p3.jpg)
 
-<!-- <h1 align="center">Hi 👋, I'm Travis</h1> -->
-<!-- <img width=100% title="Travis Mathis" alt="Travis Mathis" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Travis.Mathis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
+<h1 align="center">Hi 👋, I'm Travis</h1>
+<img width=100% title="Travis Mathis" alt="Travis Mathis" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Travis.Mathis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 # A Svelte & SvelteKit Developer From the United States
 
@@ -14,11 +13,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=travisdmathis&label=Profile%20views&color=0e75b6&style=flat" alt="travisdmathis" /> </p>
 
 - 🚀 Current Products: **(SvelteLaunch)[https://www.sveltelaunch.io]** - A Svelte 5 SaaS and AI StarterKit / Boilerplate
-- 
+  
 - 🔭 I’m currently working on: **SvelteLaunch**
-- 
+  
 - 🌱 I’m currently learning **Mobile Development / Wearable Development using Svelte 5 + CapacitorJS**
-- 
+  
 - 👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - travis@sveltelaunch.io
 
 <h2 align="left">Linked-In & Twitter</h2>
