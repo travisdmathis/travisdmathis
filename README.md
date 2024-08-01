@@ -10,15 +10,22 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=travisdmathis&label=Profile%20views&color=0e75b6&style=flat" alt="travisdmathis" /> </p>
+
 - 🚀 Current Products: **(SvelteLaunch)[https://www.sveltelaunch.io]** - A Svelte 5 SaaS and AI StarterKit / Boilerplate
+- 
 - 🔭 I’m currently working on: **SvelteLaunch**
+- 
 - 🌱 I’m currently learning **Mobile Development / Wearable Development using Svelte 5 + CapacitorJS**
+- 
 - 👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - travis@sveltelaunch.io
 
 <h2 align="left">Linked-In & Twitter</h2>
+
 <p align="left">
 <a   href="https://www.linkedin.com/in/travis-m-43443b16/" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="travisdmathis" height="30" width target="blank"></a>
+  
 <a href="https://x.com/sveltelaunch" target="blank">  X  </a>
 </p>
 
@@ -28,7 +35,8 @@
 
 # Other Accounts
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=grillwork&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![ReadMe Card](https://github-readme-stats.vercel.app/api?username=grillwork&show_icons=true&locale=en&theme=tokyonight)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?organization=grillwork&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api?organization=grillwork&show_icons=true&locale=en&theme=tokyonight)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=alleycatdev&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=alleycatdev&show_icons=true&locale=en&theme=tokyonight)
