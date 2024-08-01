@@ -28,7 +28,9 @@
 </p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=travisdmathis&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=travisdmathis&show_icons=true&locale=en&theme=tokyonight)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=travisdmathis&theme=tokyonight" alt="mystreak"/>
 
 # Other Organization Accounts
