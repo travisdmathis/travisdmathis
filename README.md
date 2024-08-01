@@ -14,7 +14,7 @@
 
 - 🚀 Current Products: **(SvelteLaunch)[https://www.sveltelaunch.io]** - A Svelte 5 SaaS and AI StarterKit / Boilerplate
   
-- 🔭 I’m currently working on: **SvelteLaunch**
+- 🔭 I’m currently working on: **My Yogi** a AI Yoga Instructor App for iOS/Android/Wearable
   
 - 🌱 I’m currently learning **Mobile Development / Wearable Development using Svelte 5 + CapacitorJS**
   
