@@ -27,6 +27,8 @@
 <a href="https://x.com/sveltelaunch" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="travisdmathis" height="30" width target="blank"></a>
 </p>
 
+<h2 align="left"> Statistic </h2>
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=travisdmathis&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=travisdmathis&show_icons=true&locale=en&theme=tokyonight)
