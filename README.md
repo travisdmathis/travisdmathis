@@ -23,9 +23,8 @@
 <h2 align="left">Linked-In & Twitter</h2>
 
 <p align="left">
-<a   href="https://www.linkedin.com/in/travis-m-43443b16/" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="travisdmathis" height="30" width target="blank"></a>
-  
-<a href="https://x.com/sveltelaunch" target="blank">  X  </a>
+<a href="https://www.linkedin.com/in/travis-m-43443b16/" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="travisdmathis" height="30" width target="blank"></a>
+<a href="https://x.com/sveltelaunch" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="travisdmathis" height="30" width target="blank"></a>
 </p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=travisdmathis&show_icons=true&locale=en&layout=compact&theme=tokyonight)
@@ -34,4 +33,4 @@
 
 # Other Focused Accounts
 
-(Grillwork)[https://github.com/grillwokr]
+https://github.com/grillwork
