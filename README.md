@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <img width=100% title="Travis Mathis" alt="Travis Mathis" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=190&section=header&text=Travis.Mathis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-# A 20+ year full stack developer focusing on Svelte & SvelteKit from the United States
+# A 20+ year full stack developer with experience in Ruby on Rials, Vite, PHP, Ember, Elixir, ReactJS, Vue, and NextJS.  Currently using Svelte/SvelteKit for greenfield projects.
 
 <div align="center"  >
   <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
