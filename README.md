@@ -18,11 +18,11 @@
 
 **[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
   
-- 🔭 I’m currently working on: [DataMachine](http://www.datamachine.so)
+🔭 I’m currently working on: [DataMachine](http://www.datamachine.so)
   
-- 🌱 I’m currently learning **Mobile Development / Wearable Development using Svelte 5 + CapacitorJS**
+🌱 I’m currently learning **Mobile Development / Wearable Development using Svelte 5 + CapacitorJS**
   
-- 👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - travis@sveltelaunch.io
+👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - travis@sveltelaunch.io
 
 <h2 align="left">Linked-In & Twitter</h2>
 
