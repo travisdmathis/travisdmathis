@@ -16,7 +16,7 @@
 
 **[SvelteLaunch](https://www.sveltelaunch.io)** - A Svelte 5 SaaS and AI StarterKit / Boilerplate
 
-**[My Yogi](https://yogi.my)** Yoga Instructor Sequence Builder and Manager App for iOS/Android
+**[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
   
 - 🔭 I’m currently working on: [DataMachine](http://www.datamachine.so)
   
