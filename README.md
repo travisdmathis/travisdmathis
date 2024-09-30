@@ -14,7 +14,7 @@
 
 🚀 Current Products: 
 
-**[SvelteLaunch](https://www.sveltelaunch.io)** - A Svelte 5 SaaS and AI StarterKit / Boilerplate
+**[SvelteLaunch](https://www.sveltelaunch.io)** - A Svelte SaaS and AI Starter Kit / Boilerplate and Development as a Service Agency
 
 **[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
   
