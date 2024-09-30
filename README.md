@@ -20,7 +20,7 @@
   
 🔭 I’m currently working on: [DataMachine](http://www.datamachine.so)
   
-👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - travis@sveltelaunch.io
+👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - https://sveltelaunch.io
 
 <h2 align="left">Linked-In & Twitter</h2>
 
