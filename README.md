@@ -23,11 +23,14 @@
 👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - https://sveltelaunch.io
 
 🎧 Podcasts:
+
 **[Tech Wise](https://open.spotify.com/show/4LSiaj6WcN3VvnV9Wuhs7l)**
+
 **[Behind The Yellow Tape](https://open.spotify.com/show/0LBzK8ykOQdFRc9OAaAw0s)**
 
 📽️ Youtube:
-**[LaunchFiend](https://www.youtube.com/@launchfiend)
+
+**[LaunchFiend](https://www.youtube.com/@launchfiend)**
 
 
 <h2 align="left">Linked-In & Twitter</h2>
