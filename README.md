@@ -18,7 +18,7 @@
 
 **[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
   
-🔭 I’m currently working on: [DataMachine](http://www.datamachine.so)
+**[DataMachine](http://www.datamachine.so)** - AI-Powered Data Generation and Data Preparation
   
 👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - https://sveltelaunch.io
 
