@@ -17,10 +17,6 @@
 **[SvelteLaunch](https://www.sveltelaunch.io)** - A Svelte SaaS and AI Starter Kit / Boilerplate and Development as a Service Agency
 
 **[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
-  
-**[DataMachine](http://www.datamachine.so)** - AI-Powered Data Generation and Data Preparation
-  
-👯 I’m avaialable for freelancing on **Svelte & SvelteKit Related Projects** - https://sveltelaunch.io
 
 
 🎧 Podcasts:
