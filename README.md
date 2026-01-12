@@ -14,22 +14,7 @@
 
 🚀 Current Products: 
 
-**[SvelteLaunch](https://www.sveltelaunch.io)** - A Svelte SaaS and AI Starter Kit / Boilerplate and Development as a Service Agency
-
-**[My Yogi](https://yogi.my)** - Yoga Instructor Sequence Builder and Manager App for iOS/Android
-
-
-🎧 Podcasts:
-
-**[Tech Wise](https://open.spotify.com/show/4LSiaj6WcN3VvnV9Wuhs7l)**
-
-**[Behind The Yellow Tape](https://open.spotify.com/show/0LBzK8ykOQdFRc9OAaAw0s)**
-
-
-📽️ Youtube:
-
-**[LaunchFiend](https://www.youtube.com/@launchfiend)**
-
+**[ThetaForge](https://thetaforge.co)** - Options Income Tracking and Monitoring
 
 <h2 align="left">Linked-In & Twitter</h2>
 
