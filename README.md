@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/travis-m-43443b16/" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="travisdmathis" height="30" width target="blank"></a>
-<a href="https://x.com/sveltelaunch" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="travisdmathis" height="30" width target="blank"></a>
+<a href="https://x.com/thetaforgeco" target="blank"><img style="margin:7px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="travisdmathis" height="30" width target="blank"></a>
 </p>
 
 <h2 align="left"> Statistic </h2>
